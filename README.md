@@ -2,6 +2,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=e10013)](https://solved.ac/gh8579/)
 
+
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=YSB1026&layout=compact&hide_border=true&theme=blue&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+
 ## 📢 My_Blog : 
 
 <div align='center'>
